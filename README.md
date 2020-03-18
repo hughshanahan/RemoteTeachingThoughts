@@ -27,3 +27,5 @@ I don't have the video functionality but that's okay - previously when I was awa
 
 Getting a Piazza login id is relatively straight forward. I'll need to post out to the students a link so that they can enroll themselves. I could also enroll the TA as well directly which is good. I'll make an announcement to the students now. 
 
+***Video***
+Over the years I've used Quicktime as a) it's on my laptop and b) you can create a slidecast with effectively one option selected. RHUL has provided a tool called Panopto and I've decided to give that a try as well. This is a commerical tool with an standalone client. What is apparenrtly nice is that you can have images from the screen and frmo a webcam recorded at the same time. All this gets uploaded to a site which integrates with the RHUL moodle. I still need to figure out how to do the two screen business (I have a web cam now so the hope is I can have a split screen with audio - one screen showing my lecture notes and the other showing me scribbling on a page). I'll let you know if I get that to work. In any case I've done a simple slidecast and posted it up onto out moodle page. 
