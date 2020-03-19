@@ -1,4 +1,4 @@
-*18 March 2020* 
+***18 March 2020*** 
 
 Tomorrow I run a CS2900 lab. I plan to a) run this from my home (one of my kid's school is closed) b) allow students to do this remotely
 
@@ -24,3 +24,21 @@ I don't have the video functionality but that's okay - previously when I was awa
 Getting a Piazza login id is relatively straight forward. I'll need to post out to the students a link so that they can enroll themselves. I could also enroll the TA as well directly which is good. I'll make an announcement to the students now.
 
 Video Over the years I've used Quicktime as a) it's on my laptop and b) you can create a slidecast with effectively one option selected. RHUL has provided a tool called Panopto and I've decided to give that a try as well. This is a commerical tool with an standalone client. What is apparenrtly nice is that you can have images from the screen and frmo a webcam recorded at the same time. All this gets uploaded to a site which integrates with the RHUL moodle. I still need to figure out how to do the two screen business (I have a web cam now so the hope is I can have a split screen with audio - one screen showing my lecture notes and the other showing me scribbling on a page). I'll let you know if I get that to work. In any case I've done a simple slidecast and posted it up onto out moodle page.
+
+***19 March 2020***
+Very low turn out and no questions on Piazza for the lab. I don't know if that's because we're close to the end of term or students don't want to engage this way or something is catastrophically wrong with this process :^( 
+
+I had a conference call today for a staff student committee meeting. I've decided to use Teams on this. Teams appears to be up and running today BUT 
+.) we have students and staff who use linux boxes and have to use the web client
+.) admin staff who can't use other tools such as skype (as it's not installed)
+
+Much chaos in the half hour beforehand. Many students couldn't log into Teams. It turns up you need to do an initial sign in to the service before you can log in on a regular basis. More cognitive load.
+
+Otherwise the call itself was okay - good quality audio; chat and cojld upload files to share. 
+
+Will try and get to doing the video using webcam of drawing on paper using panopto but probably tomorrow. 
+
+Nice discusson from @natalieharrower on the questions to consider in choosing conference call software on 
+https://twitter.com/natalieharrower/status/1240606486411317248
+
+Other wild thought - Twitch. I have no idea of what the functionality is there but it would be battle-hardened so anybody could use it.  
