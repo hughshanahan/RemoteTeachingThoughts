@@ -42,3 +42,12 @@ Nice discusson from @natalieharrower on the questions to consider in choosing co
 https://twitter.com/natalieharrower/status/1240606486411317248
 
 Other wild thought - Twitch. I have no idea of what the functionality is there but it would be battle-hardened so anybody could use it.  
+
+***20 March 2020***
+Started using Panopto to see if I could show my laptop screen, webcam (pointed to a page that I write on) and record audio. I figured out how to record two streams which automatically gets uploaded to an RHUL Panopto server. The trouble is that these streams are separate and it's not clear how to just one in the corner of the other. I decided to put it to one side and use another tool OBS. 
+
+OBS is open source (Open Broadcasting Software) and is typically used to create videos with a commentary on video games on twitch. So the is shown and there is a video of the commentator, which is what I want to go for. 
+
+The interface is okay and there are various youtube videos to explain things (tutorials are not so great). I had a problem with getting the screen to my macbook shown - I can't remember now what the problem was. I could get the laptop screen up with the wbvam output in the corner (indeed I think I can adjust the size of the webcam window as I record which would be really useful). BUT...the laptop screen is being cropped on the output screen - I'm getting only 2/3 of my screen. There is a youtube video that explains the problem is with the overall resolution of the screen and there is software to fix that (14 Euro - but it's trial initially). The video is https://www.youtube.com/watch?v=8L6GhgoDsmI . That worked. Right. So tomorrow I can start making some videos.
+
+
